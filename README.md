@@ -1,4 +1,4 @@
-# Projet Livre d'Or avec Authentification en PHP - IBRAHIMI ISMAIL
+# Projet Livre d'Or PHP - IBRAHIMI ISMAIL
 
 ## Description
 Ce projet est un livre d'or développé en PHP procédural. Il permet aux utilisateurs de s'inscrire, de se connecter et de soumettre des messages qui seront affichés publiquement. Seuls les utilisateurs connectés peuvent ajouter un message. 
